@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33751'
     url: http://www.gutenberg.org/2009/agents/33751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29189#A-Letter-From-a-Clergyman-to-his-Friend-with-an-Account-of-the-Travels-of-Captain-Lemuel-Gull_
 gutenberg_issued: '2009-06-21'
 gutenberg_type: Text
 identifiers:
