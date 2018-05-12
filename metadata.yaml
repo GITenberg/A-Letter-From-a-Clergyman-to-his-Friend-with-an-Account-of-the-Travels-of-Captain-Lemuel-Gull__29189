@@ -1,0 +1,38 @@
+_repo: A-Letter-From-a-Clergyman-to-his-Friend-with-an-Account-of-the-Travels-of-Captain-Lemuel-Gull__29189
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29189-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+  editor:
+    agent_name: Kallich, Martin
+    gutenberg_agent_id: '33751'
+    url: http://www.gutenberg.org/2009/agents/33751
+description: ''
+gutenberg_issued: '2009-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29189'
+  lccn: '77635543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- History and criticism'
+- !lcsh 'Swift, Jonathan, 1667-1745. Gulliver''s travels'
+- !lcsh 'Travelers in literature'
+- !lcsh 'Satire, English -- History and criticism'
+- !lcc 'PR'
+title: 'A Letter From a Clergyman to his Friend,
+
+  with an Account of the Travels of Captain Lemuel Gulliver'
+url: http://www.gutenberg.org/ebooks/29189
